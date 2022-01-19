@@ -1,0 +1,2 @@
+Well Fit BUM:unemployed;HighThirst;Conspicuous;AllThumbs;Lucky;FastLearner;Athletic;Strong;
+OP Build Test:burglar;HighThirst;Overweight;SlowHealer;Pacifist;ProneToIllness;Smoker;WeakStomach;SlowReader;SundayDriver;NeedsLessSleep;Brave;Lucky;FastLearner;KeenHearing;Handy;Strong;

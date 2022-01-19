@@ -1,0 +1,71 @@
+[15-01-22 16:40:33.396] reason = RDSHenDo x,y,z = 10881,10003,0 room = livingroom
+reason = RDSHenDo x,y,z = 10875,10001,0 room = livingroom
+reason = RDSHenDo x,y,z = 10877,10001,0 room = livingroom
+reason = RDSHenDo x,y,z = 10877,10003,0 room = livingroom
+reason = RDSHenDo x,y,z = 10875,10003,0 room = livingroom
+reason = RDSHenDo x,y,z = 10877,10000,0 room = livingroom
+reason = RDSHenDo x,y,z = 10881,10000,0 room = livingroom
+reason = RBShopLooted x,y,z = 10841,10032,0 room = grocery
+reason = RBShopLooted x,y,z = 10841,10032,0 room = grocery
+reason = RBShopLooted x,y,z = 10844,10028,0 room = grocery
+reason = RBShopLooted x,y,z = 10844,10028,0 room = grocery
+reason = RBShopLooted x,y,z = 10844,10028,0 room = grocery
+reason = RVSUtilityVehicle x,y,z = 10822,10123,0
+reason = RVSUtilityVehicle x,y,z = 10825,10123,0
+reason = RVSUtilityVehicle x,y,z = 10821,10125,0
+reason = RVSUtilityVehicle x,y,z = 10826,10124,0
+reason = RDSPokerNight x,y,z = 10794,10073,0 room = kitchen
+reason = RDSPokerNight x,y,z = 10794,10074,0 room = kitchen.
+[15-01-22 16:54:07.452] reason = RDSPokerNight x,y,z = 10794,10075,0 room = kitchen
+reason = RDSPokerNight x,y,z = 10794,10074,0 room = kitchen
+reason = createEatingZombies x,y,z = 10755,9962,0.
+[15-01-22 16:58:58.663] ================================================================================.
+[15-01-22 18:29:30.911] reason = RDSBathroomZed x,y,z = 10835,10183,0 room = bathroom
+reason = createEatingZombies x,y,z = 10660,10005,0
+reason = RBSafehouse x,y,z = 10883,9922,0 room = kitchen
+reason = RBSafehouse x,y,z = 10883,9922,0 room = kitchen
+reason = RBSafehouse x,y,z = 10888,9920,0 room = bedroom
+reason = RVSUtilityVehicle x,y,z = 10592,10069,0
+reason = RVSUtilityVehicle x,y,z = 10590,10069,0
+reason = RVSUtilityVehicle x,y,z = 10593,10066,0
+reason = RVSUtilityVehicle x,y,z = 10594,10066,0
+reason = RVSCarCrash x,y,z = 10625,10205,0
+reason = RVSCarCrash x,y,z = 10622,10200,0
+reason = RVSCarCrash x,y,z = 10622,10207,0
+reason = roomSpotted x,y,z = 10629,10161,0 room = janitor
+reason = createEatingZombies x,y,z = 10650,9893,0
+reason = createEatingZombies x,y,z = 10651,9893,0
+reason = roomSpotted x,y,z = 10653,9927,0 room = cafe
+reason = roomSpotted x,y,z = 10650,9931,0 room = cafe
+reason = roomSpotted x,y,z = 10650,9934,0 room = cafe
+reason = roomSpotted x,y,z = 10646,9926,0 room = cafe
+reason = roomSpotted x,y,z = 10647,9927,0 room = cafe.
+[15-01-22 18:57:14.148] reason = roomSpotted x,y,z = 10646,9935,0 room = cafe
+reason = roomSpotted x,y,z = 10606,9903,0 room = bathroom
+reason = roomSpotted x,y,z = 10743,9994,0 room = hall
+reason = roomSpotted x,y,z = 10746,9995,0 room = hall
+reason = roomSpotted x,y,z = 10741,9995,0 room = hall
+reason = roomSpotted x,y,z = 10745,9992,0 room = hall
+reason = roomSpotted x,y,z = 10741,9994,0 room = hall
+reason = roomSpotted x,y,z = 10742,9994,0 room = hall
+reason = roomSpotted x,y,z = 10743,9992,0 room = hall
+reason = RVSBanditRoad x,y,z = 10521,9785,0
+reason = RVSBanditRoad x,y,z = 10524,9789,0
+reason = RVSBanditRoad x,y,z = 10525,9789,0
+reason = RVSBanditRoad x,y,z = 10528,9786,0
+reason = RVSBanditRoad x,y,z = 10524,9784,0
+reason = RVSBanditRoad x,y,z = 10523,9783,0
+reason = roomSpotted x,y,z = 10632,9832,0 room = motelroom
+reason = RDSBathroomZed x,y,z = 10732,9686,0 room = bathroom
+reason = createEatingZombies x,y,z = 10888,9846,0 room = livingroom
+reason = RVSCarCrash x,y,z = 10898,9871,0
+reason = RVSCarCrash x,y,z = 10899,9872,0.
+[15-01-22 20:24:47.094] reason = RVSCarCrash x,y,z = 10894,9865,0
+reason = RVSCarCrash x,y,z = 10896,9866,0
+reason = RDSBathroomZed x,y,z = 10921,10132,0 room = bathroom
+reason = roomSpotted x,y,z = 10883,10034,0 room = hall
+reason = roomSpotted x,y,z = 10880,10033,1 room = bedroom
+reason = createEatingZombies x,y,z = 10740,9741,0
+reason = RVSCarCrash x,y,z = 10752,9696,0
+reason = RVSCarCrash x,y,z = 10754,9698,0
+reason = RVSCarCrash x,y,z = 10749,9698,0.

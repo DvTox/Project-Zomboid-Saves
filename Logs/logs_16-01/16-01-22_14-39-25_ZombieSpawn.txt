@@ -1,0 +1,19 @@
+[16-01-22 16:45:53.572] reason = roomSpotted x,y,z = 10615,10319,0 room = bathroom
+reason = roomSpotted x,y,z = 10610,10377,0 room = clothingstore
+reason = roomSpotted x,y,z = 10616,10374,0 room = clothingstore
+reason = roomSpotted x,y,z = 10607,10379,0 room = clothingstore
+reason = roomSpotted x,y,z = 10612,10374,0 room = clothingstore
+reason = roomSpotted x,y,z = 10611,10375,0 room = clothingstore
+reason = roomSpotted x,y,z = 10609,10374,0 room = clothingstore
+reason = RVSCarCrash x,y,z = 10061,9818,0
+reason = RVSCarCrash x,y,z = 10064,9812,0
+reason = RVSCarCrash x,y,z = 10063,9816,0
+reason = RVSCarCrash x,y,z = 10065,9818,0
+reason = createEatingZombies x,y,z = 10016,9849,0
+reason = RVSAmbulanceCrash x,y,z = 9583,9785,0
+reason = RVSAmbulanceCrash x,y,z = 9582,9791,0
+reason = createEatingZombies x,y,z = 8918,9846,0.
+[16-01-22 16:49:46.988] ================================================================================.
+[16-01-22 17:41:26.999] reason = roomSpotted x,y,z = 10676,10362,0 room = office
+reason = roomSpotted x,y,z = 10683,10359,0 room = office
+reason = roomSpotted x,y,z = 10676,10361,0 room = office.

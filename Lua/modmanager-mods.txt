@@ -1,0 +1,2 @@
+VERSION=1
+ModTemplate;ModManager;myclothinguimod;CraftHelper41;TheStar;modoptions;cheatmenu;TMC_TrueActions;tsarslib;manageContainers;UndeadSuvivor;bcFineTune;bcUtils;Playable Instruments;Silencer;TMC_Trolley;ProfessionFrameworkB41Patch;betterLockpicking;ExtraMapSymbols;ExtraMapSymbolsUI;MoreDescriptionForTraits;MapLegendUI;BecomeDesensitized;RebalancedPropMoving;TearUnderwear

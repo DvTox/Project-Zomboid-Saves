@@ -1,0 +1,26 @@
+VERSION = 1,
+
+mods
+{
+	mod = bcUtils,
+	mod = bcFineTune,
+	mod = TMC_Trolley,
+	mod = tsarslib,
+	mod = TheStar,
+	mod = modoptions,
+	mod = UndeadSuvivor,
+	mod = TMC_TrueActions,
+	mod = Silencer,
+	mod = ProfessionFrameworkB41Patch,
+	mod = Playable Instruments,
+	mod = myclothinguimod,
+	mod = ModManager,
+	mod = manageContainers,
+	mod = CraftHelper41,
+	mod = cheatmenu,
+	mod = betterLockpicking,
+}
+
+maps
+{
+}
