@@ -1,0 +1,6 @@
+[19-01-22 14:38:58.442] reason = RVSFlippedCrash x,y,z = 10628,9628,0
+reason = RVSFlippedCrash x,y,z = 10622,9623,0
+reason = createEatingZombies x,y,z = 10631,9605,0
+reason = RDSFootballNight x,y,z = 10708,9422,0 room = livingroom
+reason = RDSFootballNight x,y,z = 10704,9421,0 room = livingroom
+reason = RDSFootballNight x,y,z = 10706,9422,0 room = livingroom.
