@@ -25,6 +25,9 @@ mods
 	mod = MapLegendUI,
 	mod = ExtraMapSymbolsUI,
 	mod = ExtraMapSymbols,
+	mod = BecomeDesensitized,
+	mod = EasyConfigChucked,
+	mod = ExpandedHelicopterEvents,
 }
 
 maps

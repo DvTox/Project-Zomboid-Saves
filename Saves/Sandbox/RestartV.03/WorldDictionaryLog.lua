@@ -2147,3 +2147,79 @@ table.insert(log, {
 	{ type = "reg_obj", id = 44, obj = "WallCracks" }
 	{ type = "reg_obj", id = 45, obj = "Flowerbed" }
 };
+log = log or {};
+table.insert(log, {
+	-- -------------------------------------------------------
+	-- Time: 2022/01/22 16:19:48
+	{
+		type = "info",
+		timeStamp = "2022/01/22 16:19:48",
+		saveWorld = "RestartV.03",
+		worldVersion = 186,
+		hasErrored = false,
+		itemMods = {
+			"pz-vanilla",
+			"UndeadSuvivor",
+			"tsarslib",
+			"TearUnderwear",
+			"betterLockpicking",
+			"TMC_Trolley",
+			"Silencer",
+			"cheatmenu",
+			"Playable Instruments",
+			"ExpandedHelicopterEvents",
+		},
+	},
+	{ type = "reg_item", fulltype = "EHE.Hat_SPHCivilianVISORUP", registeryID = 2080, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.MealReadytoEat", registeryID = 2081, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.BanditStashBox", registeryID = 2082, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.UH1HHalfSkirt", registeryID = 2083, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.EmergencyWaterRationOpen", registeryID = 2084, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.SurvivorFishingSupplyBox", registeryID = 2085, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.SignalFlare", registeryID = 2086, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Hat_SPHPolice", registeryID = 2087, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Bell206HalfSkirt", registeryID = 2088, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.EmergencyWaterRation", registeryID = 2089, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.SignalFlareSpent", registeryID = 2090, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.SurvivorFoodSupplyBox", registeryID = 2091, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.NoticeFlyer", registeryID = 2092, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.EmergencyMedicalSupplyBox", registeryID = 2093, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.SurvivorSeedSupplyBox", registeryID = 2094, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Boilersuit_PoliceFlying", registeryID = 2095, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Vest_BlackPilotSurvivalVestTightened", registeryID = 2096, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.MREWrapper", registeryID = 2097, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Hat_SPHBlackVISORUP", registeryID = 2098, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Hat_SPHCivilian", registeryID = 2099, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.SurvivorToiletSupplyBox", registeryID = 2100, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE_visibleHelis.UH1HMainRotor", registeryID = 2101, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.EvacuationFlyer", registeryID = 2102, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Bell206RotorBlade", registeryID = 2103, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.EHE_Parachute", registeryID = 2104, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Vest_BlackPilotSurvivalVest", registeryID = 2105, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE_visibleHelis.Bell206Fuselage", registeryID = 2106, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Hat_SPHPoliceVISORUP", registeryID = 2107, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE_visibleHelis.UH1HFuselage", registeryID = 2108, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.SurvivorMedicalSupplyBox", registeryID = 2109, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Hat_PressHelmet", registeryID = 2110, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Hat_SPHMilitary", registeryID = 2111, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Bell206TailBlade", registeryID = 2112, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.EmergencyFoodSupplyBox", registeryID = 2113, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE_visibleHelis.Bell206MainRotor", registeryID = 2114, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE_visibleHelis.UH1HTailRotor", registeryID = 2115, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Vest_PilotSurvivalVest", registeryID = 2116, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.EmergencySurvivalSupplyBox", registeryID = 2117, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Hat_SurvivalistHelmet", registeryID = 2118, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE_visibleHelis.Bell206TailRotor", registeryID = 2119, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Jacket_DenimCutoff", registeryID = 2120, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.PreventionFlyer", registeryID = 2121, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.EmergencyFlyer", registeryID = 2122, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Vest_BulletPress", registeryID = 2123, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Boilersuit_BlackFlying", registeryID = 2124, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.UH1HRotorBlade", registeryID = 2125, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Hat_SPHBlack", registeryID = 2126, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Vest_PilotSurvivalVestTightened", registeryID = 2127, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.ProteinBar", registeryID = 2128, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.QuarantineFlyer", registeryID = 2129, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.Hat_SPHMilitaryVISORUP", registeryID = 2130, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+	{ type = "reg_item", fulltype = "EHE.SurvivorCanningSupplyBox", registeryID = 2131, existsVanilla = false, isModded = true, modID = "ExpandedHelicopterEvents", obsolete = false, removed = false, isLoaded = true }
+};
