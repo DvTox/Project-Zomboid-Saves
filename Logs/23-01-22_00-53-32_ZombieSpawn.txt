@@ -1,0 +1,8 @@
+[23-01-22 02:29:07.325] reason = RVSUtilityVehicle x,y,z = 10747,9667,0
+reason = RVSUtilityVehicle x,y,z = 10747,9674,0
+reason = RVSUtilityVehicle x,y,z = 10748,9668,0
+reason = RDSHockeyPsycho x,y,z = 10726,9636,0 room = livingroom
+reason = roomSpotted x,y,z = 10647,9693,0 room = bedroom
+reason = GlobalObject x,y,z = 10263,9233,0
+reason = GlobalObject x,y,z = 10259,9230,0
+reason = GlobalObject x,y,z = 10255,9227,0.
