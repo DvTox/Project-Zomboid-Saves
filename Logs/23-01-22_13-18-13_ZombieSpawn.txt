@@ -1,0 +1,16 @@
+[23-01-22 13:47:58.531] reason = roomSpotted x,y,z = 10624,9566,0 room = bathroom
+reason = roomSpotted x,y,z = 10625,9566,0 room = bathroom
+reason = roomSpotted x,y,z = 10625,9567,0 room = bathroom
+reason = roomSpotted x,y,z = 10624,9567,0 room = bathroom
+reason = roomSpotted x,y,z = 10623,9568,0 room = bathroom
+reason = roomSpotted x,y,z = 10626,9566,0 room = bathroom
+reason = roomSpotted x,y,z = 10623,9567,0 room = bathroom
+reason = roomSpotted x,y,z = 10681,9524,0 room = livingroom
+reason = RDSBathroomZed x,y,z = 10762,9616,0 room = bathroom
+reason = RBKateAndBaldspot x,y,z = 10746,9412,1 room = bedroom
+reason = RBKateAndBaldspot x,y,z = 10747,9412,1 room = bedroom
+reason = RBKateAndBaldspot x,y,z = 10745,9411,0 room = kitchen
+reason = RBSafehouse x,y,z = 10786,9526,0 room = hall
+reason = RBSafehouse x,y,z = 10780,9527,0 room = bedroom
+reason = RBSafehouse x,y,z = 10786,9530,0 room = kitchen
+reason = RBSafehouse x,y,z = 10780,9526,0 room = bedroom.
